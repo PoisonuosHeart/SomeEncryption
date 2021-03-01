@@ -1,0 +1,5 @@
+﻿  DigitalSigned.cpp
+C:\СевГу\4_курс\yanvar\Защита Информации\ЗИ_Лабораторная_работа_№5\DigitalSigned\DigitalSigned\DigitalSigned.cpp(114,33): warning C4244: инициализация: преобразование "long double" в "unsigned long", возможна потеря данных
+C:\СевГу\4_курс\yanvar\Защита Информации\ЗИ_Лабораторная_работа_№5\DigitalSigned\DigitalSigned\DigitalSigned.cpp(135,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\СевГу\4_курс\yanvar\Защита Информации\ЗИ_Лабораторная_работа_№5\DigitalSigned\DigitalSigned\DigitalSigned.cpp(181,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DigitalSigned.vcxproj -> C:\СевГу\4_курс\yanvar\Защита Информации\ЗИ_Лабораторная_работа_№5\DigitalSigned\Debug\DigitalSigned.exe
