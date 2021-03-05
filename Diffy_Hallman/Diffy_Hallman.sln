@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diffy_Hallman", "Diffy_Hallman\Diffy_Hallman.vcxproj", "{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Debug|x64.ActiveCfg = Debug|x64
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Debug|x64.Build.0 = Debug|x64
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Debug|x86.Build.0 = Debug|Win32
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Release|x64.ActiveCfg = Release|x64
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Release|x64.Build.0 = Release|x64
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Release|x86.ActiveCfg = Release|Win32
+		{A83DB6F2-0D67-4E9C-B1E7-B0D0588B30B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41B045E-8279-4BC6-828B-48D7C2D1D639}
+	EndGlobalSection
+EndGlobal
